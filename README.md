@@ -3,11 +3,11 @@
 # Where is the Code?
 
 ## Version 1.0
-Version 1.0 runs against MarkLogic 8. The latest release of this codebase lives in the 1.0-master branch.
+Version 1.0 runs against MarkLogic 8. The latest release of this codebase lives in the [1.0-master branch](https://github.com/marklogic/marklogic-data-hub/tree/1.0-master).
 
-The latest development efforts for this codebase live in 1.0-develop.
+The latest development efforts for this codebase live in the [1.0-develop branch](https://github.com/marklogic/marklogic-data-hub/tree/1.0-develop).
 
 ## Version 2.0
-Version 2.0 runs against MarkLogic 9. The latest release of this codebase lives in the 2.0-master branch.
+Version 2.0 runs against MarkLogic 9. The latest release of this codebase lives in the [2.0-master branch](https://github.com/marklogic/marklogic-data-hub/tree/2.0-master).
 
-The latest development efforts for this codebase live in 2.0-develop.
+The latest development efforts for this codebase live in the [2.0-develop branch](https://github.com/marklogic/marklogic-data-hub/tree/2.0-develop).
